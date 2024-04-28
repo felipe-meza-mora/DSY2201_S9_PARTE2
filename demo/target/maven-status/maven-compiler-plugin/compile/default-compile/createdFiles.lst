@@ -1,0 +1,10 @@
+com\example\demo\service\PacienteService.class
+com\example\demo\controller\PacienteController$ErrorResponse.class
+com\example\demo\DemoApplication.class
+com\example\demo\model\Historial.class
+com\example\demo\service\PacienteServiceImpl.class
+com\example\demo\controller\PacienteNotFoundException.class
+com\example\demo\repository\HistorialRepository.class
+com\example\demo\model\Paciente.class
+com\example\demo\repository\PacienteRepository.class
+com\example\demo\controller\PacienteController.class
